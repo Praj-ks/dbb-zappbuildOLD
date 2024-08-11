@@ -118,6 +118,7 @@
            EXEC CICS RETURN END-EXEC.
 
        A100-PROCESS-MAP.
+           DISPLAY 'A100-PROCESS-MAP'
 
            PERFORM A310-ERASE-MAP.
 
